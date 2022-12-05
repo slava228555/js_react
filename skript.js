@@ -1,4 +1,4 @@
-let js=hihi;
+let js="hihi";
 // const left_hand_side=haha;
-js=hiha;
+js="hiha";
 alert(js);
